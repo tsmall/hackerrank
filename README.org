@@ -5,6 +5,7 @@ The files are organized by domain.
 So far I've tackled these:
 
 - [[file:30-days-of-code/][30 Days of Code]]
+- [[file:algorithms/][Algorithms]]
 
 * Git hygiene
 
