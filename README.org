@@ -1,0 +1,56 @@
+#+TITLE: HackerRank Solutions
+
+My solutions to some of the problems on [[https://www.hackerrank.com][HackerRank]].
+
+* Git hygiene
+
+I may be a bit obsessive,
+but I think a consistent git history is important.
+It helps the reader,
+removes the need to decide how to format each commit,
+and makes automated analysis possible.
+
+I'm using this format for this repository:
+
+#+BEGIN_EXAMPLE
+<domain>/<subdomain>: <change>
+<optional line break>
+<optional description>
+#+END_EXAMPLE
+
+Here's what the different pieces mean:
+
+- =<domain>= ::
+  The domain as defined by HackerRank.
+  This should be something like ~30days~ for "30 Days of Code"
+  or ~algos~ for "Algorithms".
+  But it could also be =admin= for repository administration --
+  like reorganization or changes to =.gitignore= files --
+  or =docs= for documentation updates.
+
+- =<subdomain>= ::
+  The subdomain as defined by HackerRank.
+  This should be something like ~warmup~.
+  This (and the preceding slash) will be absent
+  for ~admin~ or ~docs~ commits.
+
+- =<change>= ::
+  A short description of the change.
+  The first line,
+  including the area,
+  should be fewer than 72 characters long.
+
+- =<optional line break>= ::
+  If the commit would be more helpful with a longer description,
+  separate the first line from the description
+  with a single blank line.
+
+- =<optional description>= ::
+  This can be one or more paragraphs
+  containing additional details
+  about the commit.
+  Not every commit will need this;
+  in fact, most probably won't.
+  Commits should be small,
+  so the first line should usually be enough.
+  Only add more where it makes the commit message more helpful.
