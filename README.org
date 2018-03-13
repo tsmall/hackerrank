@@ -1,6 +1,10 @@
 #+TITLE: HackerRank Solutions
 
 My solutions to some of the problems on [[https://www.hackerrank.com][HackerRank]].
+The files are organized by domain.
+So far I've tackled these:
+
+- [[file:30-days-of-code/][30 Days of Code]]
 
 * Git hygiene
 
