@@ -7,7 +7,7 @@ So far I've tackled these:
 - [[file:30-days-of-code/][30 Days of Code]]
 - [[file:algorithms/][Algorithms]]
 
-* Git hygiene
+** Git hygiene
 
 I may be a bit obsessive,
 but I think a consistent git history is important.
